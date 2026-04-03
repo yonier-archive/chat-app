@@ -6,6 +6,7 @@ Una aplicación de chat en tiempo real moderna construida con Vue 3, TypeScript,
 
 ## Demo
 [![Demo](./demo.png)](./demo.mp4)
+## [Video demo](./demo.mp4)
 
 ## Características
 

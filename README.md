@@ -6,6 +6,7 @@ A modern, real-time chat application built with Vue 3, TypeScript, Express, Sock
 
 ## Demo
 [![Demo](./demo.png)](./demo.mp4)
+## [Demo video](./demo.mp4)
 
 ## Features
 
