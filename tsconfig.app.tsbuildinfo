@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/composables/useSocket.ts","./src/lib/supabase.ts","./src/App.vue","./src/components/ChatRoom.vue","./src/components/EmojiPicker.vue","./src/components/HelloWorld.vue"],"version":"5.9.3"}
