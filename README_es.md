@@ -5,8 +5,9 @@
 Una aplicación de chat en tiempo real moderna construida con Vue 3, TypeScript, Express, Socket.io y Prisma.
 
 ## Demo
-[![Demo](./demo.png)](./demo.mp4)
-## [Video demo](./demo.mp4)
+<!-- [![Demo](./demo.png)](./demo.mp4) -->
+[![Demo](./demo.png)](https://github.com/user-attachments/assets/51b0f641-e563-4157-913b-6d2a671d5bfb)
+### [Video demo](./demo.mp4)
 
 ## Características
 
